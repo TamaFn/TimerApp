@@ -8,5 +8,5 @@
 ![First](Img/opening.png)
 
 ### 2. Waktu yang berjalan ketika distop
-![First](img/stop.png)
+![First](Img/stop.png)
 
